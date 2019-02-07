@@ -1,0 +1,19 @@
+.banner {
+  padding: 40px 0 150px 25px;
+  background-size: cover;
+  background-position: top;
+  color: white;
+  text-shadow: 1px 1px 10px #CCCCCC;
+  box-shadow: 1px 1px 10px #CCCCCC;
+}
+
+.banner h2 {
+  font-family: "open sans";
+  font-weight: lighter;
+}
+
+.banner div {
+  text-align: center;
+  width: 50%;
+  padding-bottom: 50px;
+}

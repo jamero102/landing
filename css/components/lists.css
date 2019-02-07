@@ -1,0 +1,11 @@
+.inline-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+.inline-list li {
+  display: inline-block;
+  padding: 0 10px;
+}

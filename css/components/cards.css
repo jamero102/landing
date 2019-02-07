@@ -1,0 +1,27 @@
+.services-container {
+}
+
+.services-container h2 {
+  padding-left: 16px;
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  padding-bottom:20px;
+}
+
+.service-card {
+  width: 200px;
+  padding: 30px;
+  box-shadow: 1px 1px 10px #CCCCCC;
+  border: 2px solid #94B3D0;
+  border-radius: 16px;
+}
+
+.service-card img {
+  height: 200px;
+  border-radius: 16px;
+}

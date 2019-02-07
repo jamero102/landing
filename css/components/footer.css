@@ -1,0 +1,17 @@
+.footer {
+  background-color: #94B3D0;
+  padding: 10px;
+}
+
+.footer i {
+  font-size: 40px;
+  color: white;
+  display: inline-block;
+  transition: 1s;
+}
+
+.footer i:hover {
+  font-size: 40px;
+  color: #5F809C;
+  display: inline-block;
+}
